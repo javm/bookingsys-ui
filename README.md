@@ -1,3 +1,7 @@
+## Booking system UI
+This will be the user interface for the API
+The project will help to manage, create, cancel and check the status of all the bookings scheduled for the users.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
